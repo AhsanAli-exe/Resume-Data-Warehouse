@@ -1,0 +1,140 @@
+{
+    "basic_info": {
+        "full_name": "Ebad Ali",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "ebadalie@gmail.com",
+        "phone": "+923022689940",
+        "address": {
+            "street": "A-10, Centre point, Block-21",
+            "city": "Karachi",
+            "state": "Sindh",
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": null,
+    "skills": [
+        {
+            "skill_name": "C++",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Core Java Programming",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C#",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Android Application Development",
+            "proficiency": null,
+            "category": "Mobile App Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows Phone 8 Application Development",
+            "proficiency": null,
+            "category": "Mobile App Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Asp.Net",
+            "proficiency": null,
+            "category": "Web Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Entity Framework",
+            "proficiency": null,
+            "category": "Database",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Html",
+            "proficiency": null,
+            "category": "Web Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Java Script",
+            "proficiency": null,
+            "category": "Web Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "JQuery",
+            "proficiency": null,
+            "category": "Web Development",
+            "years_of_experience": null
+        }
+    ],
+    "education": [],
+    "experience": [
+        {
+            "job_title": "Junior Android Developer",
+            "company": "Salsoft Technologies Pvt.Ltd",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "employment_type": "Full-time",
+            "location": "Pakistan",
+            "responsibilities": [
+                "Responsible for Design Integration and Android Application Development."
+            ],
+            "skills_used": [
+                "Android Application Development"
+            ]
+        },
+        {
+            "job_title": "Internee",
+            "company": "PIA-Computer Center",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "employment_type": "Internship",
+            "location": "Pakistan",
+            "responsibilities": [
+                "Responsible for Developing a Network Inventory System for the data center.",
+                "Developed a website on Asp.Net"
+            ],
+            "skills_used": [
+                "Asp.Net"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Angry Bird",
+            "description": "Replicated Desktop version of ROVIO ENTERTAINMENT\u2019s Angry Bird. An OpenGL based Computer Graphic project, Written in C++ with a physic Engine, Box2D.",
+            "technologies": [
+                "C++",
+                "OpenGL",
+                "Box2D"
+            ],
+            "role": "Developer",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

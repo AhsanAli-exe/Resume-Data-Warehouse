@@ -1,0 +1,227 @@
+{
+    "basic_info": {
+        "full_name": "Faisal Shahzad",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": null
+    },
+    "contact_info": {
+        "email": "faisalkhan00668@yahoo.com",
+        "phone": "03137144006",
+        "address": {
+            "street": "House no #140 Street no #3",
+            "city": "Sargodha",
+            "state": null,
+            "zip_code": "40100",
+            "country": null
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": "http://portfolio.pekypowrs.com/"
+    },
+    "summary": "I am young mature & enthusiastic individual believes in snaking up my ladder with honesty and hard work. My educational qualifications have equipped me with the abilities to perform my job professional. I am highly motivated, eager to learn and able to work under busy & stressful conditions to be one of leading roles within the organization. I would like to work with an organization giving me opportunities to explore the world.",
+    "skills": [
+        {
+            "skill_name": "PHP",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Java Script",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "CSS",
+            "proficiency": null,
+            "category": "Styling",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "HTML",
+            "proficiency": null,
+            "category": "Markup Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "jquery",
+            "proficiency": null,
+            "category": "Library",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C++/OOP",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Data Structure",
+            "proficiency": null,
+            "category": "Data Structure",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "JAVA",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "ERP (Enterprise Resource Planning)",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Word",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Excel",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft PowerPoint",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Visio",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Linux",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Adobe Photoshop",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Filezilla",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "MATRIC",
+            "field": "Science",
+            "institution": "Comprehension boy high School",
+            "start_date": null,
+            "end_date": "2008",
+            "grade": "Ist A++",
+            "location": "Sargodha",
+            "courses": []
+        },
+        {
+            "degree": "ICS",
+            "field": null,
+            "institution": "Superior College Sargodha",
+            "start_date": null,
+            "end_date": "2010",
+            "grade": "Ist",
+            "location": "Sargodha",
+            "courses": []
+        },
+        {
+            "degree": "BSIT",
+            "field": "Information Technology",
+            "institution": "University of Sargodha",
+            "start_date": "2010",
+            "end_date": "2014",
+            "grade": "CGPA 3.19",
+            "location": "Sargodha",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Intern",
+            "company": "Pixiders",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Internship",
+            "location": null,
+            "responsibilities": [
+                "WEB DEVELOPMENT"
+            ],
+            "skills_used": [
+                "PHP"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "FUN SMS",
+            "description": "I made a final year project \u201cFUN SMS\u201d including two portions. 1st was configured SMS API and 2nd was Sale Purchase Module (like OLX) With new feature Auto garneted SMS alerts. Providing a best sale Purchase in different cities. Person subscribe page. When subscribed then anyone else generate the same message regarding to that post then the automatic sms is generated to that user.",
+            "technologies": [
+                "Adobe Dreamweaver CS5",
+                "XAMPP",
+                "Oziki Server",
+                "Mysql Database",
+                "HTML",
+                "CSS",
+                "Java Script",
+                "Ajax",
+                "PHP"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": "2014",
+            "link": null
+        },
+        {
+            "title": "MBCC",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": "2013",
+            "link": "malikbrothers.com"
+        },
+        {
+            "title": "PPC",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": "2014",
+            "link": "Pekypowers.com"
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [],
+    "interests": [
+        "Games",
+        "Internet",
+        "Searching",
+        "new Technology"
+    ],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

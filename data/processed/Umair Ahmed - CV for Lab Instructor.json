@@ -1,0 +1,340 @@
+{
+    "basic_info": {
+        "full_name": "Umair Ahmed",
+        "current_title": null,
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": null
+    },
+    "contact_info": {
+        "email": "Umair_ahmed403@yahoo.com",
+        "phone": "0332-2190191",
+        "address": {
+            "street": "House No. 325, Street No. 05, Block 37/ D, Landhi No. 01",
+            "city": "Karachi",
+            "state": null,
+            "zip_code": "75160",
+            "country": null
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "To use my knowledge and skills to better facilitate the students in this areas of Applied Physics specially Electronics and Computer Science Specially Artificial Intelligence, to build on the experience I have gained and to further my knowledge in other aspects.",
+    "skills": [
+        {
+            "skill_name": "C-Language",
+            "proficiency": null,
+            "category": "Programming",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Assembly Language",
+            "proficiency": null,
+            "category": "Programming",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Matlab Programing",
+            "proficiency": null,
+            "category": "Programming",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "PLC Programing",
+            "proficiency": null,
+            "category": "Programming",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS \u2013 Office",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Inpage",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Advance Excel",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Internet Surf",
+            "proficiency": null,
+            "category": "Internet",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Email",
+            "proficiency": null,
+            "category": "Internet",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS in Computer Science",
+            "field": "Computer Science",
+            "institution": "Institute of Business Administration",
+            "start_date": "2013-01-01",
+            "end_date": null,
+            "grade": "GPA 3.33",
+            "location": "Karachi",
+            "courses": [
+                "Probabilistic Reasoning",
+                "Image Processing",
+                "Image Processing for Recognition",
+                "Pattern Recognition",
+                "Advanced Data Warehouse and Software Project Management"
+            ]
+        },
+        {
+            "degree": "M.Sc (Electronics)",
+            "field": "Applied Physics",
+            "institution": "University of Karachi",
+            "start_date": "2011-01-01",
+            "end_date": "2011-12-31",
+            "grade": "1st Class Third Position (with 70.55%)",
+            "location": "Karachi",
+            "courses": [
+                "Micro-Processor & Micro-Controller (Atmel 8051)",
+                "Industrial Electronics & Instrumentation",
+                "Advance Telecommunication (Microwaves)",
+                "Digital Signal Processing & Data Communication",
+                "Quantum,Numerical and Computational Physics",
+                "Analog & Digital Electronics"
+            ]
+        },
+        {
+            "degree": "M.Sc. in Physics",
+            "field": "Physics",
+            "institution": "Federal Urdu University of Arts, Science and Technology, Karachi",
+            "start_date": "2008-01-01",
+            "end_date": "2008-12-31",
+            "grade": null,
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "B.Sc. (Hons) Physics",
+            "field": "Physics",
+            "institution": "Federal Urdu University of Arts, Science and Technology, Karachi",
+            "start_date": "2007-01-01",
+            "end_date": "2007-12-31",
+            "grade": null,
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "H.S.C (Pre-Engineering)",
+            "field": "Pre-Engineering",
+            "institution": "Govt. Degree Science/Commerce College, Landhi/Korangi 06",
+            "start_date": "2003-01-01",
+            "end_date": "2003-12-31",
+            "grade": null,
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "S.S.C. (Science)",
+            "field": "Science",
+            "institution": "Ali Foundation Academy, Karachi",
+            "start_date": "2001-01-01",
+            "end_date": "2001-12-31",
+            "grade": "1st Division",
+            "location": "Karachi",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Teaching Assistant",
+            "company": "University Of Karachi",
+            "start_date": "2012-07-01",
+            "end_date": null,
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Conduct LABs of Industrial Electronics/PLC, Microprocessor Interfacing (8051), Analogue Electronics & Linear Integrated Circuits, C-Language & Assembly Language.",
+                "Provided Lectures on Wireless Communication, Data Communication & Networks and Micro-Processor Interfacing (8051)"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer",
+            "company": "Bright Career School, Karachi",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Conduct Sr I to Sr III, O-Level Classes"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer",
+            "company": "The Illuminator Coaching Center, Karachi",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Provided Lectures on Business Maths in B.Com Classes"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer",
+            "company": "Adamjee Coaching Center, Karachi",
+            "start_date": "2009-01-01",
+            "end_date": "2009-12-31",
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Provided Lectures on Physics in Intermediate Classes"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer",
+            "company": "Sarfaraz Pilot Higher Secondary School",
+            "start_date": "2007-01-01",
+            "end_date": "2008-12-31",
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Provided Lectures on Mathematics in Intermediate Classes"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer",
+            "company": "Govt. Degree College for Women Landhi 06, Karachi",
+            "start_date": "2007-01-01",
+            "end_date": "2007-12-31",
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Provided Lectures on Physics in Intermediate Classes"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer",
+            "company": "The Light Coaching Center, Karachi",
+            "start_date": "2004-01-01",
+            "end_date": "2006-12-31",
+            "employment_type": null,
+            "location": "Karachi",
+            "responsibilities": [
+                "Provided Lectures on Mathematics in Intermediate Classes"
+            ],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Microcontroller based Single Board Computer (SBC) Development and its Application",
+            "description": "Interfacing of Memory, LCD, Keyboard and Printers, Assembly Language based programm, Serial and parallel data communication",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Design and Contruction of a \u201cFour Digit Frequency Counter\u201d",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Design and Construction of AM Transmitter",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Design and Contruction Object Detector",
+            "description": "Using Infrared Transmitter and Receiver",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Wireless Point to Multipoint Data Communication Zigbee Based using 8051 Microcontroller",
+            "description": null,
+            "technologies": [],
+            "role": "Supervisor",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Power Line Communication",
+            "description": null,
+            "technologies": [],
+            "role": "Supervisor",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Vehicle Control via Wi-Fi using 8051",
+            "description": null,
+            "technologies": [],
+            "role": "Supervisor",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Certification of Programable Logic Controller (PLC)",
+            "issuer": "Department of Applied Physics, University of Karachi",
+            "issue_date": "2011-06-01",
+            "expiration_date": null,
+            "credential_id": null,
+            "url": null
+        },
+        {
+            "title": "Certification of Micro-Controller Based Single Board Compter (SBC) Development and its Application",
+            "issuer": "Department of Applied Physics, University of Karachi",
+            "issue_date": "2011-12-01",
+            "expiration_date": null,
+            "credential_id": null,
+            "url": null
+        }
+    ],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": null
+        },
+        {
+            "language": "Urdu",
+            "proficiency": null
+        }
+    ],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

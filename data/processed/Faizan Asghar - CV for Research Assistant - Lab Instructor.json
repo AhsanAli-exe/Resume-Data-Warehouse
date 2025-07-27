@@ -1,0 +1,137 @@
+{
+    "basic_info": {
+        "full_name": "Faizan Asghar",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "Faizanasghar_sm1@hotmail.com",
+        "phone": "03462662309",
+        "address": {
+            "street": "",
+            "city": "Karachi",
+            "state": "",
+            "zip_code": "",
+            "country": "Pakistan"
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "summary": "To acquire a career oriented position in a reputed organization, which will provide me with an environment to nurture my professional growth, enable me to enhance my skills and utilize my abilities to the maximum.",
+    "skills": [
+        {
+            "skill_name": "Team leading",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Good communication",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Presentation Skills",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Sharp-learning capability",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Creative",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S.",
+            "field": "Computer Engineering",
+            "institution": "Sir syed University of computer and engineering",
+            "start_date": "2010-01-01",
+            "end_date": "2013-12-31",
+            "grade": null,
+            "location": "Karachi, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "Intermediate",
+            "field": "Pre-Engineering",
+            "institution": "Gulshan degree college",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "grade": null,
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation",
+            "field": null,
+            "institution": "Nasra secondary school",
+            "start_date": "2007-01-01",
+            "end_date": "2007-12-31",
+            "grade": null,
+            "location": "Karachi",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Intern",
+            "company": "Pakistan International Airlines (PIA)",
+            "start_date": "2012-01-01",
+            "end_date": "2012-12-31",
+            "employment_type": "Internship",
+            "location": "Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        }
+    ],
+    "projects": [],
+    "certifications": [],
+    "publications": [],
+    "languages": [],
+    "interests": [],
+    "volunteer_experience": [
+        {
+            "role": "Volunteer",
+            "organization": "DAWN News",
+            "start_date": "2013-02-01",
+            "end_date": "2013-02-03",
+            "description": "All about Life Style event"
+        },
+        {
+            "role": "Volunteer",
+            "organization": "DAWN News",
+            "start_date": "2012-06-22",
+            "end_date": "2012-06-24",
+            "description": "All about Life Style event"
+        },
+        {
+            "role": "Attendee",
+            "organization": null,
+            "start_date": "2012-05-30",
+            "end_date": "2012-05-30",
+            "description": "1st National Youth Energy Conference"
+        },
+        {
+            "role": "Participant",
+            "organization": null,
+            "start_date": "2011-01-01",
+            "end_date": "2011-12-31",
+            "description": "Photography competition (procom.net2011)"
+        }
+    ],
+    "awards": [],
+    "links": []
+}

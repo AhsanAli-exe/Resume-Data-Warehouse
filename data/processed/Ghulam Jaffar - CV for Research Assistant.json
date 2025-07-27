@@ -1,0 +1,345 @@
+{
+    "basic_info": {
+        "full_name": "",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "ghulamjaffar110@gmail.com",
+        "phone": "+92.344.8534083",
+        "address": {
+            "street": "House # DK-314, Street #8B, Near Gulbagh General Store",
+            "city": "Rawalpindi",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "To seek a challenging and motivating career that provides opportunity to work in a challenging, motivating and dynamic environment. That foster & rewards positive attitude, proactive work style and shared goals that will effectively utilize my communication, leadership, professional, organizational and technical skills.",
+    "skills": [
+        {
+            "skill_name": "Software Development",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": 3
+        },
+        {
+            "skill_name": "Object Oriented Programming",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C#",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Asp.Net",
+            "proficiency": null,
+            "category": "Framework",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SQL Server",
+            "proficiency": null,
+            "category": "Database",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Unity 3D",
+            "proficiency": null,
+            "category": "Game Engine",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Android",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "JSON",
+            "proficiency": null,
+            "category": "Data Format",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "VB.net",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Java",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C++",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Turbo C",
+            "proficiency": null,
+            "category": "IDE",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "VB6",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS Access",
+            "proficiency": null,
+            "category": "Database",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "XML",
+            "proficiency": null,
+            "category": "Data Format",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "JavaScript",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS",
+            "field": "Information Security",
+            "institution": "National University of Science and Technology (NUST) Islamabad",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": "Islamabad, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "Bachelors",
+            "field": "Computer Sciences",
+            "institution": "National University FAST Islamabad",
+            "start_date": "2006-01-01",
+            "end_date": "2010-12-31",
+            "grade": null,
+            "location": "Islamabad, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "H.S.S.C",
+            "field": null,
+            "institution": null,
+            "start_date": "2004-01-01",
+            "end_date": "2006-12-31",
+            "grade": null,
+            "location": null,
+            "courses": []
+        },
+        {
+            "degree": "S.S.C",
+            "field": null,
+            "institution": null,
+            "start_date": null,
+            "end_date": "2004-12-31",
+            "grade": null,
+            "location": null,
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Senior Software Engineer (Unity 3D)",
+            "company": "11Values Pvt Ltd",
+            "start_date": "2014-06-01",
+            "end_date": null,
+            "employment_type": "Full-time",
+            "location": "Rawalpindi, Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "NimbleGeeks Pvt Ltd",
+            "start_date": "2010-06-01",
+            "end_date": "2014-01-31",
+            "employment_type": "Full-time",
+            "location": "Islamabad, Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Developer",
+            "company": "Strengthening Participatory Organization (SPO) Data Base, NGO Pakistan",
+            "start_date": "2010-01-01",
+            "end_date": "2010-06-30",
+            "employment_type": "Full-time",
+            "location": "Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Teaching",
+            "company": "BZU (DG Khan Campus)",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Part-time",
+            "location": "DG Khan, Pakistan",
+            "responsibilities": [
+                "It increase may confidence to communicate with other in best way."
+            ],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Wing of Invasion (Game)",
+            "description": "I am working as software engineer on Wing of Invasion, project coordinator and application architect in development of Wing of Invasion. Wing of Invasion is fully functional and multi-platform game with online purchasing.",
+            "technologies": [
+                "Unity 3D Pro",
+                "Sketch Up",
+                "Blender",
+                "Unity Assets Store"
+            ],
+            "role": "Software Engineer",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Survival Island (Game)",
+            "description": "I am working as software engineer on Survival Island, project coordinator and application architect in development of Survival Island. Survival Island is fully functional and multi-platform game with add support.",
+            "technologies": [
+                "Unity 3D Pro",
+                "Sketch Up",
+                "Blender",
+                "Unity Assets Store"
+            ],
+            "role": "Software Engineer",
+            "start_date": null,
+            "end_date": "2014-07-01",
+            "link": null
+        },
+        {
+            "title": "Save the Baby (Game)",
+            "description": "I am working as software engineer on Save the Baby, project coordinator and application architect in development of Save the Baby. Save the Baby is fully functional and multi-platform game with add support.",
+            "technologies": [
+                "Unity 3D Pro",
+                "Sketch Up",
+                "Blender",
+                "Unity Assets Store"
+            ],
+            "role": "Software Engineer",
+            "start_date": null,
+            "end_date": "2014-05-01",
+            "link": null
+        },
+        {
+            "title": "Visions, USA",
+            "description": "I am working as software engineer, project coordinator and application architect in development of Visions online web base solution. Visions is medical HER which fulfill all HL7 standards.",
+            "technologies": [
+                "ASP.NET using C#",
+                "SQL Server 2008",
+                "Visual Studio 2008",
+                "Java Script",
+                "XML",
+                "Mirth Connect"
+            ],
+            "role": "Software Engineer",
+            "start_date": null,
+            "end_date": "2014-01-01",
+            "link": "http://www.myvisionslive.com"
+        },
+        {
+            "title": "EyeBase, USA",
+            "description": "I worked as software engineer in development of EyeBase desk top version. EyeBase is medical EHR and certified by Drummond Inc in USA.",
+            "technologies": [
+                "XML",
+                "Microsoft Access",
+                "Mirth Connect"
+            ],
+            "role": "Team Lead / Software Engineer",
+            "start_date": null,
+            "end_date": "2013-04-01",
+            "link": "http://www.visioncare.net"
+        },
+        {
+            "title": "Strengthening Participatory Organization (SPO) Data Base, NGO Pakistan",
+            "description": "It was paid project we take from Strengthening Participatory Organization and maintain the data of migrated people in NWFP.",
+            "technologies": [
+                "Microsoft Access"
+            ],
+            "role": "Developer",
+            "start_date": "2010-01-01",
+            "end_date": "2010-06-30",
+            "link": "http://www.spopk.org"
+        },
+        {
+            "title": "Location based Mobile Application",
+            "description": "LBMA have different module",
+            "technologies": [
+                "Android",
+                "Google map"
+            ],
+            "role": "Team Lead",
+            "start_date": null,
+            "end_date": "2010-05-01",
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": null
+        },
+        {
+            "language": "Urdu",
+            "proficiency": null
+        },
+        {
+            "language": "Punjabi",
+            "proficiency": null
+        },
+        {
+            "language": "Saraiki",
+            "proficiency": null
+        }
+    ],
+    "interests": [
+        "Web Surfing",
+        "Poetry",
+        "Novel Reading"
+    ],
+    "volunteer_experience": [],
+    "awards": [
+        {
+            "title": "Fully Funded Outreach Scholarship",
+            "issuer": "Ministry of IT & RD",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "1st, 2nd, 3rd Position in Software Competition",
+            "issuer": "Directorate of Science & Technology NWFP",
+            "date": "2010-01-29",
+            "description": null
+        }
+    ],
+    "links": []
+}

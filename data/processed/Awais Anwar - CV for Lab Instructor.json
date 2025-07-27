@@ -1,0 +1,179 @@
+{
+    "basic_info": {
+        "full_name": "Awaiz Anwar",
+        "current_title": "",
+        "gender": "Male",
+        "date_of_birth": "1991-10-24",
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "",
+        "phone": "",
+        "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip_code": "",
+            "country": "Pakistan"
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "summary": "Being a committed team player, want to be a part of renowned organization, to contribute towards the growth of organization, based on my expertise and further my personal capabilities by learning from the new exposure within the structured framework of organization.",
+    "skills": [
+        {
+            "skill_name": "MS Office",
+            "proficiency": "",
+            "category": "",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C++",
+            "proficiency": "",
+            "category": "",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SQL using Oracle 11g",
+            "proficiency": "",
+            "category": "",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Agile development process",
+            "proficiency": "",
+            "category": "",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "B. Sc.",
+            "field": "Computer System Engineering",
+            "institution": "The Islamia University, Bahawalpur, Pakistan",
+            "start_date": "2010-01-01",
+            "end_date": "2014-12-31",
+            "grade": "CGPA 3.50/4.0",
+            "location": "Bahawalpur, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "F. Sc.",
+            "field": "Pre-Engineering",
+            "institution": "Superior College, Muzaffargarh, Pakistan",
+            "start_date": "2006-08-01",
+            "end_date": "2009-10-31",
+            "grade": "%AGE 76.00",
+            "location": "Muzaffargarh, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation",
+            "field": "",
+            "institution": "Govt. High School, Muzaffargarh, Pakistan",
+            "start_date": "2004-08-01",
+            "end_date": "2006-09-30",
+            "grade": "%AGE 72.28",
+            "location": "Muzaffargarh, Pakistan",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Intern",
+            "company": "TECHLOGIX",
+            "start_date": "2012-07-23",
+            "end_date": "2012-08-31",
+            "employment_type": "Internship",
+            "location": "",
+            "responsibilities": [
+                "During Internship I worked on \u201cSoftware Testing\u201d & \u201cServers Maintenance\u201d."
+            ],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Malicious Email Detection & Filtering System",
+            "description": "The objective of our project is to suspect the E-mails which consist of offensive, harmful, anti-social elements and block them which help of identifying the suspicious user.",
+            "technologies": [
+                "Java",
+                "JSP",
+                "SQL",
+                "HTML",
+                "Eclipse",
+                "Spring Tool Suite",
+                "Oracle 11g",
+                "Agile Development (Scrum)"
+            ],
+            "role": "Database Developer, Team Leader",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Implementation of Event Driven Programming using OpenGL",
+            "description": "",
+            "technologies": [
+                "OpenGL"
+            ],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "LAMP Server (Linux, Apache, MySQL, PHP) and Virtual Machine Certification",
+            "issuer": "",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "",
+            "url": ""
+        },
+        {
+            "title": "Workshop on FPGA System Design using Verilog HDL",
+            "issuer": "",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "",
+            "url": ""
+        },
+        {
+            "title": "MS Visual Studio (Visual C++, Visual Basic) Certification",
+            "issuer": "",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "",
+            "url": ""
+        },
+        {
+            "title": "Cisco Certified Network Administrator (CCNA-Composite, VOIP)",
+            "issuer": "",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "",
+            "url": ""
+        }
+    ],
+    "publications": [],
+    "languages": [],
+    "interests": [
+        "Programming in C++/Java",
+        "Data Structures",
+        "Database Management System using Oracle",
+        "Software Development"
+    ],
+    "volunteer_experience": [],
+    "awards": [
+        {
+            "title": "1st Position Scholarship holder in Class",
+            "issuer": "",
+            "date": null,
+            "description": ""
+        }
+    ],
+    "links": []
+}

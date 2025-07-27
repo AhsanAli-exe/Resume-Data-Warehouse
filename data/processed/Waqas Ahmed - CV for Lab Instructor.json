@@ -1,0 +1,158 @@
+{
+    "basic_info": {
+        "full_name": "Waqas Ahmed",
+        "current_title": "Electronics Engineer",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistan"
+    },
+    "contact_info": {
+        "email": "waqas638@gmail.com",
+        "phone": "+923455494026, 03125385028",
+        "address": {
+            "street": "Almadina Electric store street#05 main bazaar",
+            "city": "Rawalpindi",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "A competent Electronics engineer with a comprehensive knowledge of designing, developing and Maintaining electrical and electronics systems and components to required specifications, focusing On economy, Safety, reliability, quality and sustainability. Having a comprehensive understanding of Electrical Health and safety regulations, I am currently looking for a suitable electrical engineering Position.",
+    "skills": [
+        {
+            "skill_name": "Circuit Design",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microcontroller Programming",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Software",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "PLC Programming",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Power Electronics",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Embedded Systems",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Control Systems",
+            "proficiency": null,
+            "category": "Electrical Engineering",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "BEEE (Electronic Engineering)",
+            "field": "Electronic Engineering",
+            "institution": "Iqra University, Islamabad Campus",
+            "start_date": "2010-01-01",
+            "end_date": "2013-12-31",
+            "grade": null,
+            "location": "Islamabad",
+            "courses": []
+        },
+        {
+            "degree": "D.A.E (Electrical)",
+            "field": "Electrical",
+            "institution": "Punjab Board of Technical Education",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "grade": null,
+            "location": null,
+            "courses": []
+        },
+        {
+            "degree": "Matriculation (Science)",
+            "field": "Science",
+            "institution": "Rawalpindi Board",
+            "start_date": "2003-01-01",
+            "end_date": "2006-12-31",
+            "grade": null,
+            "location": "Rawalpindi",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Intern",
+            "company": "Best way cement company Limited",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Internship",
+            "location": null,
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Trainee Engineer",
+            "company": "Koh-e-noor mills",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Full-time",
+            "location": "Rawalpindi",
+            "responsibilities": [],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Implementation and designing of CNC machine",
+            "description": "Programming the microcontroller, Circuit Design, Debugging Problems",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Wind mill Design and implement",
+            "description": "",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": "Urdu",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Good"
+        }
+    ],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

@@ -1,0 +1,317 @@
+{
+    "basic_info": {
+        "full_name": "Jawad Ahmed Bhutta",
+        "current_title": "",
+        "gender": "",
+        "date_of_birth": "",
+        "nationality": ""
+    },
+    "contact_info": {
+        "email": "jabhutta@gmail.com",
+        "phone": "+92 333 3162772",
+        "address": {
+            "street": "Flat # 2A block 43 Askari V",
+            "city": "Karachi",
+            "state": "Sindh",
+            "zip_code": "",
+            "country": "Pakistan"
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "summary": "A well-presented, good all round performer who when given a task, has the ability to work quickly and efficiently without asking too many questions. Jawad has a proactive attitude and a strong work ethic, he is sure to be able to make a real contribution to the day-to-day operations of any business. A proven ability to maintain and enhance company software with the aim of improving operational functionality in line with business requirement.",
+    "skills": [
+        {
+            "skill_name": "SQL",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "C++",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "C",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Java",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Android",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "XML",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Eclipse",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Requirements gathering",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Testing Mobile applications",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Diary management",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Multitasking",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Administrative systems",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "MS office",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Linux (.rpm and .deb)",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Analytical",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Dependable",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Attention to detail",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Motivated & enthusiastic",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Strong work ethic",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Articulate",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Accepting feedback and taking constructive criticism well",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Ability to develop and maintain good relations with colleagues and supervisors/managers",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Willingness to learn new things",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Willingness to share knowledge, skills and expertise",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Going the extra mile to make a difference, having the drive to lead and succeed",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Ability to manage own projects and portfolio",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Exposure to PHP development",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Possessing solid academic understanding of software development principles",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "A strong understanding of professional software development practice",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Having a logical approach to problem solving",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Have exposure to requirements definition and concept of workflow / reporting",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Clear and informative written and verbal communication skills",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Ability to work quickly and efficiently with little supervision",
+            "proficiency": "",
+            "category": "Soft",
+            "years_of_experience": 0
+        },
+        {
+            "skill_name": "Knowledge of differing methodologies",
+            "proficiency": "",
+            "category": "Technical",
+            "years_of_experience": 0
+        }
+    ],
+    "education": [
+        {
+            "degree": "BE Computer Systems Engineering",
+            "field": "Computer Systems Engineering",
+            "institution": "USMAN INSTTUTE OF TECNOLOGY",
+            "start_date": "",
+            "end_date": "",
+            "grade": "CGPA of 3.55",
+            "location": "",
+            "courses": []
+        },
+        {
+            "degree": "Intermediate (HSSC)",
+            "field": "",
+            "institution": "GARRISSON ACADEMY QUETTA CANTT",
+            "start_date": "",
+            "end_date": "",
+            "grade": "B Grade",
+            "location": "",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation (SSC)",
+            "field": "",
+            "institution": "APSACS PMA KAKUL",
+            "start_date": "",
+            "end_date": "",
+            "grade": "A Grade",
+            "location": "",
+            "courses": []
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "title": "Android Based Nearest Medical Facility Locator",
+            "description": "FYP",
+            "technologies": [],
+            "role": "",
+            "start_date": "",
+            "end_date": "",
+            "link": ""
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [],
+    "interests": [],
+    "volunteer_experience": [
+        {
+            "role": "Active member",
+            "organization": "IEEE Student Branch",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "role": "IEEE Newsletter writing team member",
+            "organization": "",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "role": "Represented University",
+            "organization": "3rd Youth in Governance conference",
+            "start_date": "",
+            "end_date": "",
+            "description": "held at Quaid-e-Azam University Islamabad by Transparency International"
+        },
+        {
+            "role": "Head of Report writing",
+            "organization": "COMNET 14",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        },
+        {
+            "role": "Organizing member",
+            "organization": "Reader's club and Literary society at University",
+            "start_date": "",
+            "end_date": "",
+            "description": ""
+        }
+    ],
+    "awards": [],
+    "links": []
+}

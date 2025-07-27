@@ -1,0 +1,287 @@
+{
+    "basic_info": {
+        "full_name": "SHAWANA KHAN",
+        "current_title": null,
+        "gender": null,
+        "date_of_birth": "1993-11-09",
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "Shawana_khan24@yahoo.com",
+        "phone": "0345 8318343",
+        "address": {
+            "street": "HOUSE # 1. STREET # 8. FASIAL TOWN BREWERY ROAD",
+            "city": "QUETTA",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "My aim is to get the better opportunities and serves the people for their beterment in any field. Seeking acceptance into a distinctive corporate organization where I can ideally groom myself in the field of electronics.",
+    "skills": [
+        {
+            "skill_name": "MS Word",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS Excel",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS PowerPoint",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Office Suite",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows 7&8",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows XP",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Android",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows Phone 8",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "CCNA 1 \u2013 NETWORKING BASICS",
+            "proficiency": null,
+            "category": "Networking",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MATLAB",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Different type of processors like 8086, 8052 etc.",
+            "proficiency": null,
+            "category": "Hardware",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS(Electronics)",
+            "field": "Electronics",
+            "institution": "Balochistan University of Information Technology Engineering and Management Sciences",
+            "start_date": "2010-01-01",
+            "end_date": "2014-12-31",
+            "grade": "CGPA 3.7/4.00",
+            "location": "Quetta, Pakistan",
+            "courses": [
+                "Communication Skills",
+                "Electronic Circuit Design",
+                "Data Communication & Networking",
+                "Professional & Social Ethics",
+                "Basic Electronics & Computer Aided Engineering Design",
+                "Digital Logic Design",
+                "Electronic Devices",
+                "Calculus & Analytical Geometry",
+                "Linear Algebra & Differential Equations",
+                "Digital Signal Processing",
+                "Mobile Communications",
+                "Satellite Communications",
+                "VLSI",
+                "Industrial Electronics",
+                "Opto-Electronics",
+                "Power Electronics"
+            ]
+        },
+        {
+            "degree": "FSc (Pre-Engineering)",
+            "field": "Pre-Engineering",
+            "institution": "Board of Intermediate and Secondary Education, Quetta",
+            "start_date": "2007-01-01",
+            "end_date": "2008-12-31",
+            "grade": "69% High 1st Division",
+            "location": "Quetta, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation (Biology)",
+            "field": "Biology",
+            "institution": "Board of Intermediate and Secondary Education, Quetta",
+            "start_date": "2005-01-01",
+            "end_date": "2006-12-31",
+            "grade": "78.5% High 1st Division",
+            "location": "Quetta, Pakistan",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Intern",
+            "company": "PTCL Center",
+            "start_date": "2012-01-01",
+            "end_date": "2012-12-31",
+            "employment_type": "Internship",
+            "location": "Quetta, Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Maximum Power Point Tracking By INCOND Technique",
+            "description": "My final year project is based up on the one of the most important issues of the world .It is basically related to the efficiency of the Solar Panel. Solar panel is a well-recognized source of getting power but the Major issue is to increase the efficiency and gets the Maximum Power output. So, in my project, I try to increase the efficiency of PV panel by applying Incremental conductance technique.",
+            "technologies": [],
+            "role": "Project Leader",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "IC\u2019s Trainers",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "NOT, AND, OR, etc\u2026 IC\u2019s Checker trainer",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "The electronic city",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Infrared Transmitter & Receiver",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Heart beat detector",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Digital clock",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Operational Amplifier",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Displaying Name on the screen with different patterns",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Line follower Robot by using 8051 Controller",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": "Urdu",
+            "proficiency": "Speak-Read-write"
+        },
+        {
+            "language": "English",
+            "proficiency": "Speak-Read-write"
+        }
+    ],
+    "interests": [
+        "Cooking",
+        "Reading",
+        "Travel",
+        "Sports"
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Volunteer",
+            "organization": "BUITEMS",
+            "start_date": "2013-12-31",
+            "end_date": "2013-12-31",
+            "description": "Participated as Volunteer for Organizing BUITEMS 9th Convocation"
+        }
+    ],
+    "awards": [
+        {
+            "title": "1st Position in Electronics Project Competition",
+            "issuer": "IEEE student branch in BUITEMS",
+            "date": "2012-01-04",
+            "description": null
+        },
+        {
+            "title": "3rd Prize in Flower exhibition Competition",
+            "issuer": null,
+            "date": "2014-01-01",
+            "description": null
+        }
+    ],
+    "links": []
+}

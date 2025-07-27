@@ -1,0 +1,159 @@
+{
+    "basic_info": {
+        "full_name": "UROOJ SHEIKH",
+        "current_title": "Electrical Engineer",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": null
+    },
+    "contact_info": {
+        "email": "scorp_sheikh11@hotmail.com",
+        "phone": "+92 332 3453882",
+        "address": {
+            "street": null,
+            "city": null,
+            "state": null,
+            "zip_code": null,
+            "country": null
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Seeking an Electrical Engineer position in progressive organization;allows me to apply my qualification, skills and knowledge towards the success of the organization.",
+    "skills": [
+        {
+            "skill_name": "MATLAB",
+            "proficiency": "medium",
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "ETAP",
+            "proficiency": "basic",
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Minitab",
+            "proficiency": "basic",
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "CALCULUX /DIALUX",
+            "proficiency": "medium",
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS Office",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Energy Management",
+            "field": "Energy Management",
+            "institution": "NED university of Engineering and Technology, Karachi",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "Bachelors in Electrical Engineering",
+            "field": "Electrical Engineering",
+            "institution": "NED University Of Engineering And Technology, Karachi",
+            "start_date": null,
+            "end_date": "2012",
+            "grade": "1st Division",
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "Intermediate",
+            "field": null,
+            "institution": "P.E.C.H.S Government College for Woman, Karachi",
+            "start_date": null,
+            "end_date": "2008",
+            "grade": "A One Grade",
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation",
+            "field": null,
+            "institution": "Programmer School, Karachi",
+            "start_date": null,
+            "end_date": "2006",
+            "grade": "A One Grade",
+            "location": "Karachi",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Electrical Engineer",
+            "company": "Dancom Engineering Solution PVT Ltd",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": null,
+            "location": null,
+            "responsibilities": [
+                "To manage all power related activities of HEC Regional Center Karachi, Data Center and POP sites to ensure 24x7 operation time",
+                "Resolve all power issues of data center and POP sites.",
+                "Maintance of power equipment(UPS, Generators, STULZ units, PDU, Servers)",
+                "Deals with the contractors.",
+                "Manage and deployed technical team to resolve power issue on POP sites and Regional Center Karachi.",
+                "Introducing live monitoring system of all power equipment via software and do immediate action."
+            ],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Designing of an improved reliability system for M/S Brookes Pharmaceutical",
+            "description": "This project consists of: Lightening Load Calculation of Brookes Pharmaceutical\u2018s administrative block. Proposed alternate Lightening load i.e. LED under the assistance of M/S Philips. Study of Power Factor Correction Plants. Research and selection of Alternate source.",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": null
+        },
+        {
+            "language": "Urdu",
+            "proficiency": null
+        }
+    ],
+    "interests": [
+        "Delivered several Presentations during academic years. (Final year project Presentation, Graphology etc.)",
+        "Worked as team leader and as team member in several academic projects.",
+        "Awarded with participation certificate, organized by IET lectures on Power Transformer and Switch Gears.",
+        "Participated in Extra circular activities (spring festival ,annual dinner).",
+        "Net Surfing on new innovative engineering stuffs.",
+        "Work independently and take immediate decision to resolve issue.",
+        "Introduce new solution in an organization to work efficiently."
+    ],
+    "volunteer_experience": [],
+    "awards": [
+        {
+            "title": "Participation certificate",
+            "issuer": "IET",
+            "date": null,
+            "description": "organized by IET lectures on Power Transformer and Switch Gears"
+        }
+    ],
+    "links": []
+}

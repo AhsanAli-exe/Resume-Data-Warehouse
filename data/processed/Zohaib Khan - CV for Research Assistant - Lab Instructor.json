@@ -1,0 +1,272 @@
+{
+    "basic_info": {
+        "full_name": "Zohaib Khan",
+        "current_title": "Research Assistant/ Lab Instructor (Interested)",
+        "gender": null,
+        "date_of_birth": "1992-11-01",
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "me_zohaib@ymail.com",
+        "phone": "+92 3341251568",
+        "address": {
+            "street": "House No. J-6/3 Pak Jamhoria Colony near P.N. Shifa Hospital Karachi Cantt",
+            "city": "Karachi",
+            "state": "Sindh",
+            "zip_code": "75530",
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Seeking challenging and pro-learning avenues where my knowledge of computer science is fully utilized to further enhance my employers\u2019 capabilities. The ideal position would fully utilize my unique combination of excellent communication skills, strong analytical and problem solving abilities and technical aptitude.",
+    "skills": [
+        {
+            "skill_name": "Computer and math skills",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Operating Systems",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Programming Languages",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Database Knowledge",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Web technology",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Software",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "English",
+            "proficiency": "working knowledge",
+            "category": "Language",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor",
+            "field": "Computer Science",
+            "institution": "Federal Urdu University of Arts, Science and Technology",
+            "start_date": "2012-01-01",
+            "end_date": "2016-12-31",
+            "grade": "3.79/4.0",
+            "location": "Karachi, Pakistan",
+            "courses": [
+                "Object Oriented Programming",
+                "Database Management Systems",
+                "Software Engineering-I",
+                "Data Structures",
+                "Calculus",
+                "Operating Systems",
+                "Artificial Intelligence",
+                "Design & Analysis of Algorithms",
+                "Software Engineering-II",
+                "Data Mining"
+            ]
+        },
+        {
+            "degree": "Intermediate",
+            "field": "Pre-Engineering",
+            "institution": "F.G Boys Inter College Karachi Cantt",
+            "start_date": "2009-01-01",
+            "end_date": "2011-12-31",
+            "grade": null,
+            "location": "Karachi, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "Matric",
+            "field": "Science",
+            "institution": "Ever Shine Govt. Boys Secondary School Karachi",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "grade": null,
+            "location": "Karachi, Pakistan",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Tuition Tutor",
+            "company": null,
+            "start_date": "2009-01-01",
+            "end_date": null,
+            "employment_type": "Part-time",
+            "location": "Karachi, Pakistan",
+            "responsibilities": [
+                "Teaching different classes from Beginner To Inter"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "School Teacher",
+            "company": "Star Academy Secondary School",
+            "start_date": "2011-09-01",
+            "end_date": null,
+            "employment_type": "Full-time",
+            "location": "Karachi, Pakistan",
+            "responsibilities": [
+                "Teaching different classes from 6 to 10 (Matric)"
+            ],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Some Modules of School Management System (SMS)",
+            "description": "This is Semester project given by our course instructor. This is a group project. The main objective of this project is to develop Computer Based Desktop Application for Administration of a school. The modules included are attendance management, admission management and teacher management.",
+            "technologies": [
+                "C#.Net",
+                "MS Access"
+            ],
+            "role": "Team Lead",
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Matrix Calculator",
+            "description": null,
+            "technologies": [
+                "C"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Fibonacci series",
+            "description": null,
+            "technologies": [
+                "C"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Copy of Microsoft Notepad",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Simple Picture Viewer",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Calculator",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Training & Preparation for .NET Framework 4.5(Windows Application Development)",
+            "issuer": "CEP (Continuing Education Program), SSUET Karachi",
+            "issue_date": "2013-04-01",
+            "expiration_date": null,
+            "credential_id": null,
+            "url": null
+        }
+    ],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": "working knowledge"
+        }
+    ],
+    "interests": [
+        "current affairs",
+        "travelling",
+        "Reading",
+        "Listening Songs",
+        "Making new friends",
+        "social networking",
+        "learning from every possible source of my interests",
+        "searching for new future technology"
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Volunteer (Team Leader)",
+            "organization": "All Karachi Debate Competition",
+            "start_date": null,
+            "end_date": null,
+            "description": "Jointly Organized Social Bond Welfare Organization, Pakistan Debate Council and Dept. of Computer Science FUUAST. As a Volunteer (Team Leader) I supported administrative activities, and Manage other Team Leaders Activities."
+        },
+        {
+            "role": "University Ambassador",
+            "organization": "Streebo Developers Day2014 at FAST University",
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        },
+        {
+            "role": "Volunteer",
+            "organization": "ICICTT Conference at FUUAST Karachi",
+            "start_date": "2013-09-01",
+            "end_date": null,
+            "description": "As a Volunteer, I supported administrative activities related to the Conference."
+        },
+        {
+            "role": "Batch and Class Representative",
+            "organization": "FUUAST",
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        },
+        {
+            "role": "President",
+            "organization": "FUUASTCS Society",
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "awards": [],
+    "links": []
+}

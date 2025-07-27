@@ -1,0 +1,288 @@
+{
+    "basic_info": {
+        "full_name": "SANA FATIMA",
+        "current_title": "Jr. Instructor",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": null
+    },
+    "contact_info": {
+        "email": "fzee_03@yahoo.com",
+        "phone": "0334-3581384",
+        "address": {
+            "street": null,
+            "city": "Karachi",
+            "state": "Sindh",
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "To utilize my skills for achieving the target and providing the best performance in the organization. I would like to implement my innovative ideas, skills and creativity for accomplishing the tasks.",
+    "skills": [
+        {
+            "skill_name": "C",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C#",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Assembly",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Visual Basic",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MATLAB",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "LABVIEW",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "HTML",
+            "proficiency": null,
+            "category": "Web Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "ASP.Net",
+            "proficiency": null,
+            "category": "Web Development",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SQL Server",
+            "proficiency": null,
+            "category": "Database",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS-office",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (B.E)",
+            "field": "Computer & Information System",
+            "institution": "NEDUET Karachi",
+            "start_date": "2007-01-01",
+            "end_date": "2010-12-31",
+            "grade": "First Division",
+            "location": "Karachi, Pakistan",
+            "courses": null
+        },
+        {
+            "degree": "Bachelor of Science (B.Sc.)",
+            "field": "Mathematics",
+            "institution": "APWA Govt. Girls College, Karimabad, Karachi",
+            "start_date": null,
+            "end_date": "2006-12-31",
+            "grade": "First Division",
+            "location": "Karachi, Pakistan",
+            "courses": null
+        },
+        {
+            "degree": "Intermediate (H.Sc)",
+            "field": "Pre-Engineering",
+            "institution": "Govt. Degree College for women, Nazimabad, Karachi",
+            "start_date": null,
+            "end_date": "2003-12-31",
+            "grade": null,
+            "location": "Karachi, Pakistan",
+            "courses": null
+        },
+        {
+            "degree": "Matric (S.Sc)",
+            "field": null,
+            "institution": "Oxford Public School, North Karachi",
+            "start_date": null,
+            "end_date": "2001-12-31",
+            "grade": "First Division",
+            "location": "Karachi, Pakistan",
+            "courses": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Jr. Instructor",
+            "company": "Aligarh Institute of Technology (Sir Syed University of Engineering & Technology)",
+            "start_date": "2012-11-05",
+            "end_date": null,
+            "employment_type": null,
+            "location": "Karachi, Pakistan",
+            "responsibilities": [
+                "Project Advisor for various projects developing on C & Visual Basic.",
+                "Exam coordinator in intra mid term examination.",
+                "Computer lab in-charge."
+            ],
+            "skills_used": null
+        },
+        {
+            "job_title": "Jr. Instructor",
+            "company": "Mian Institute of Science Management & Technology (Institute of Retd. Chief Justice of Pakistan)",
+            "start_date": "2012-01-01",
+            "end_date": "2012-10-31",
+            "employment_type": null,
+            "location": "Karachi, Pakistan",
+            "responsibilities": null,
+            "skills_used": null
+        },
+        {
+            "job_title": "Internee",
+            "company": "IT-Sector of CDGK (Abbasi Shaheed Hospital)",
+            "start_date": "2009-06-01",
+            "end_date": "2009-07-15",
+            "employment_type": null,
+            "location": "Karachi, Pakistan",
+            "responsibilities": null,
+            "skills_used": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Operating System for Intel Storage SSR212MA SAN",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Assembler for a microprocessor",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Online Shop for cosmetics products",
+            "description": null,
+            "technologies": [
+                "ASP.NET"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "College Management",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Employee Database",
+            "description": null,
+            "technologies": [
+                "C"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Detailed study about Storage Area Network hardware",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "8088-Microprocessor Interfacing",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Electronic Score Board For Cricket",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "DC Power Supply (5volts)",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": null,
+            "proficiency": null
+        }
+    ],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [
+        {
+            "title": "Exhibits my own designed project \u2018Simulator for microprocessor 8088\u2019",
+            "issuer": "ITEC Software Exhibition",
+            "date": "2008-01-01",
+            "description": null
+        },
+        {
+            "title": "Organized the departmental project Exhibition Tech-Elite",
+            "issuer": null,
+            "date": "2009-01-01",
+            "description": null
+        },
+        {
+            "title": "Participated in Software Modeling Competition in Tech-Elite",
+            "issuer": null,
+            "date": "2010-01-01",
+            "description": null
+        }
+    ],
+    "links": []
+}

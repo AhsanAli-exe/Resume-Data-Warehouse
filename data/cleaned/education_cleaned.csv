@@ -1,0 +1,74 @@
+candidate_id,degree,field,institution,start_date,end_date,grade,location,courses_count,level
+1,Bachelor,Telecommunication Engineering,"Hamdard University, Karachi",2010-01-01,2014-12-31,3.1,Karachi,0,3.0
+1,Intermediate,Pre Engineering,"Tameer-e-Nau Public College, Quetta",2008-01-01,2009-12-31,74.0,Quetta,0,1.0
+1,Matric,,"Government high School  Killi Sheikhan, Quetta",2006-01-01,2007-12-31,75.0,Quetta,0,0.0
+2,Bachelor,Computer System Engineering,"The Islamia University, Bahawalpur, Pakistan",2010-01-01,2014-12-31,3.5,"Bahawalpur, Pakistan",0,3.0
+2,Intermediate,Pre-Engineering,"Superior College, Muzaffargarh, Pakistan",2006-08-01,2009-10-31,76.0,"Muzaffargarh, Pakistan",0,1.0
+2,Matric,,"Govt. High School, Muzaffargarh, Pakistan",2004-08-01,2006-09-30,72.0,"Muzaffargarh, Pakistan",0,0.0
+4,BS (Computer Science),Computer Science,Air University Islamabad,,,,Islamabad,0,0.0
+4,D.A.E (Mechanical),Mechanical,P.B.T.E Lahore,,,,Lahore,0,0.0
+4,Matriculation (Science),Science,B.I.S.E Bahawalpur,,,,Bahawalpur,0,0.0
+5,MATRIC,Science,Comprehension boy high School,,2008,Ist A++,Sargodha,0,0.0
+5,ICS,,Superior College Sargodha,,2010,Ist,Sargodha,0,0.0
+5,BSIT,Information Technology,University of Sargodha,2010,2014,3.19,Sargodha,0,0.0
+6,B.S.,Computer Engineering,Sir syed University of computer and engineering,2010-01-01,2013-12-31,,"Karachi, Pakistan",0,0.0
+6,Intermediate,Pre-Engineering,Gulshan degree college,2007-01-01,2009-12-31,,Karachi,0,1.0
+6,Matric,,Nasra secondary school,2007-01-01,2007-12-31,,Karachi,0,0.0
+7,Master,Information Security,National University of Science and Technology (NUST) Islamabad,,,,"Islamabad, Pakistan",0,4.0
+7,Bachelors,Computer Sciences,National University FAST Islamabad,2006-01-01,2010-12-31,,"Islamabad, Pakistan",0,0.0
+7,H.S.S.C,,,2004-01-01,2006-12-31,,,0,0.0
+7,S.S.C,,,,2004-12-31,,,0,0.0
+8,MS(CS),Computer Networks,"Virtual University of Pakistan, Lahore",,,,"Lahore, Pakistan",3,0.0
+8,Masters of Computer Sciences,,"Virtual University of Pakistan, Lahore",2009-01-01,2011-12-31,,"Lahore, Pakistan",5,0.0
+9,BS (Computer Science),Computer Science,Air University Islamabad,,,,Islamabad,0,0.0
+9,D.A.E (Mechanical),Mechanical,P.B.T.E Lahore,,,,Lahore,0,0.0
+9,Matriculation (Science),Science,B.I.S.E Bahawalpur,,,,Bahawalpur,0,0.0
+10,BE-EE (Electronics Engineering),Electronics Engineering,Iqra University (IU),2009-12-01,2014-02-28,2.9,Pakistan,0,0.0
+10,Intermediate (Pre-Engineering),Pre-Engineering,Askari Intermediate College (A-I-C-B),2007-01-01,2009-12-31,2nd division,,0,0.0
+10,Matriculation (Computer Science),Computer Science,Army Public School (APS-COD),2005-01-01,2007-12-31,2nd division,,0,0.0
+11,BS in Computer Science,Computer Science,"International Islamic University, Islamabad",2010-01-01,2014-12-31,3.09/4.00,Islamabad,0,0.0
+11,CCNA & MCSE,,CISCOM Rawalpindi,2013-09-01,2013-11-30,,Rawalpindi,0,0.0
+11,Intermediate,,Govt:(B) Degree College Umerkot,2008-01-01,2010-12-31,80.0,Umerkot,0,1.0
+11,Matric,,Kainaat Public school Umerkot,2006-01-01,2008-12-31,84.0,Umerkot,0,0.0
+12,BE Computer Systems Engineering,Computer Systems Engineering,USMAN INSTTUTE OF TECNOLOGY,,,3.55,,0,0.0
+12,Intermediate (HSSC),,GARRISSON ACADEMY QUETTA CANTT,,,B Grade,,0,0.0
+12,Matriculation (SSC),,APSACS PMA KAKUL,,,A Grade,,0,0.0
+13,M.S.,Computer Science,PAF-KIET,,,,,0,0.0
+13,B.S.,Computer Science,University of Karachi,,,3.24,,0,0.0
+13,F.S.C,Pre Engineering,Federal Board of Intermediate & Secondary Education Islamabad Pakistan,,,,,0,0.0
+13,S.S.C,Science,Naunehal Secondary School Karachi Pakistan,,,,,0,0.0
+14,BS (CS & IT),Computer Science and Information Technology,NED UNIVERSITY OF ENGINEERING & TECHNOLOGY,2009-01-01,2013-12-31,83.0,"Karachi, Pakistan",0,0.0
+14,HSC (Pre-Engineering),Pre-Engineering,SUPERIOR SCIENCE COLLEGE,2007-01-01,2009-12-31,A,,0,0.0
+14,SSC (Science),Science,ARMY PUBLIC SCHOOL (Central Ordinance Depot),2005-01-01,2007-12-31,A,,0,0.0
+15,B.E.,Electrical (Major in Electronic Engineering),"Bahria University, Karachi Campus",2006-01-01,2010-12-31,3.25,"Karachi, Pakistan",0,0.0
+15,H.S.C,Pre-Engineering,"D.J Sindh Govt. Science college Karachi, Pakistan",2004-01-01,2006-12-31,1st Division,"Karachi, Pakistan",0,0.0
+15,S.S.C,Science,"Meritorious Schools Network Karachi, Pakistan",2002-01-01,2004-12-31,1st Division,"Karachi, Pakistan",0,0.0
+16,Bachelor of Science,Electrical Engineering (Specialization in Telecommunication),"HITEC University Taxila-Cantt, Pakistan",,,3.08,"Taxila, Pakistan",0,0.0
+16,F.Sc (Pre-Engineering),,"JINNAH Basic School & Colleges Mansehra, Pakistan",,,847.0,"Mansehra, Pakistan",0,0.0
+16,Matriculation (General Science),,O.P.F public school Mansehra,,,703.0,"Mansehra, Pakistan",0,0.0
+17,BS (Electrical Engineering),Electrical Engineering,University of Engineering and Technology (UET) Lahore,2009-01-01,2014-12-31,2.5/4.00,"Lahore, Pakistan",9,0.0
+17,FSc (Pre-Engineering),Pre-Engineering,"Board of Intermediate and Secondary Education, Quetta",2007-01-01,2008-12-31,78.0,"Quetta, Pakistan",0,0.0
+17,Matriculation (Computer),Computer,"Board of Intermediate and Secondary Education, Quetta",2005-01-01,2006-12-31,70.0,"Quetta, Pakistan",0,0.0
+18,Bachelor of Engineering (B.E),Computer & Information System,NEDUET Karachi,2007-01-01,2010-12-31,First Division,"Karachi, Pakistan",0,0.0
+18,Bachelor of Science (B.Sc.),Mathematics,"APWA Govt. Girls College, Karimabad, Karachi",,2006-12-31,First Division,"Karachi, Pakistan",0,0.0
+18,Intermediate (H.Sc),Pre-Engineering,"Govt. Degree College for women, Nazimabad, Karachi",,2003-12-31,,"Karachi, Pakistan",0,0.0
+18,Matric (S.Sc),,"Oxford Public School, North Karachi",,2001-12-31,First Division,"Karachi, Pakistan",0,0.0
+19,BS(Electronics),Electronics,Balochistan University of Information Technology Engineering and Management Sciences,2010-01-01,2014-12-31,3.7,"Quetta, Pakistan",16,0.0
+19,FSc (Pre-Engineering),Pre-Engineering,"Board of Intermediate and Secondary Education, Quetta",2007-01-01,2008-12-31,69.0,"Quetta, Pakistan",0,0.0
+19,Matriculation (Biology),Biology,"Board of Intermediate and Secondary Education, Quetta",2005-01-01,2006-12-31,78.0,"Quetta, Pakistan",0,0.0
+20,MS in Computer Science,Computer Science,Institute of Business Administration,2013-01-01,,GPA 3.33,Karachi,5,0.0
+20,M.Sc (Electronics),Applied Physics,University of Karachi,2011-01-01,2011-12-31,1.0,Karachi,6,0.0
+20,M.Sc. in Physics,Physics,"Federal Urdu University of Arts, Science and Technology, Karachi",2008-01-01,2008-12-31,,Karachi,0,0.0
+20,B.Sc. (Hons) Physics,Physics,"Federal Urdu University of Arts, Science and Technology, Karachi",2007-01-01,2007-12-31,,Karachi,0,0.0
+20,H.S.C (Pre-Engineering),Pre-Engineering,"Govt. Degree Science/Commerce College, Landhi/Korangi 06",2003-01-01,2003-12-31,,Karachi,0,0.0
+20,S.S.C. (Science),Science,"Ali Foundation Academy, Karachi",2001-01-01,2001-12-31,1st Division,Karachi,0,0.0
+21,Master in Energy Management,Energy Management,"NED university of Engineering and Technology, Karachi",,,,Karachi,0,0.0
+21,Bachelors in Electrical Engineering,Electrical Engineering,"NED University Of Engineering And Technology, Karachi",,2012,1st Division,Karachi,0,0.0
+21,Intermediate,,"P.E.C.H.S Government College for Woman, Karachi",,2008,A One Grade,Karachi,0,1.0
+21,Matric,,"Programmer School, Karachi",,2006,A One Grade,Karachi,0,0.0
+22,BEEE (Electronic Engineering),Electronic Engineering,"Iqra University, Islamabad Campus",2010-01-01,2013-12-31,,Islamabad,0,0.0
+22,D.A.E (Electrical),Electrical,Punjab Board of Technical Education,2007-01-01,2009-12-31,,,0,0.0
+22,Matriculation (Science),Science,Rawalpindi Board,2003-01-01,2006-12-31,,Rawalpindi,0,0.0
+23,Bachelor,Computer Science,"Federal Urdu University of Arts, Science and Technology",2012-01-01,2016-12-31,3.79/4.0,"Karachi, Pakistan",10,3.0
+23,Intermediate,Pre-Engineering,F.G Boys Inter College Karachi Cantt,2009-01-01,2011-12-31,,"Karachi, Pakistan",0,1.0
+23,Matric,Science,Ever Shine Govt. Boys Secondary School Karachi,2007-01-01,2009-12-31,,"Karachi, Pakistan",0,0.0

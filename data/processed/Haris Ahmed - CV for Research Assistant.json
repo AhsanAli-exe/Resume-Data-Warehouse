@@ -1,0 +1,187 @@
+{
+    "basic_info": {
+        "full_name": "Haris Ahmed",
+        "current_title": null,
+        "gender": null,
+        "date_of_birth": "1991-07-30",
+        "nationality": null
+    },
+    "contact_info": {
+        "email": "Engrharris.iu@gmail.com",
+        "phone": "(+92-345) 278 1022",
+        "address": {
+            "street": "265/3 Bahadurabad",
+            "city": "Karachi",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Seeking a position in a Progressive and Reputable Organization, which provides opportunity for growth, I am keen to work in a Challenging Environment and to learn new skills.",
+    "skills": [
+        {
+            "skill_name": "Communication",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Teamwork",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS Office",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Computer Networking",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "BE-EE (Electronics Engineering)",
+            "field": "Electronics Engineering",
+            "institution": "Iqra University (IU)",
+            "start_date": "2009-12-01",
+            "end_date": "2014-02-28",
+            "grade": "2.9",
+            "location": "Pakistan",
+            "courses": null
+        },
+        {
+            "degree": "Intermediate (Pre-Engineering)",
+            "field": "Pre-Engineering",
+            "institution": "Askari Intermediate College (A-I-C-B)",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "grade": "2nd division",
+            "location": null,
+            "courses": null
+        },
+        {
+            "degree": "Matriculation (Computer Science)",
+            "field": "Computer Science",
+            "institution": "Army Public School (APS-COD)",
+            "start_date": "2005-01-01",
+            "end_date": "2007-12-31",
+            "grade": "2nd division",
+            "location": null,
+            "courses": null
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Lab Engineer and Teaching",
+            "company": "Indus University",
+            "start_date": "2014-03-01",
+            "end_date": null,
+            "employment_type": null,
+            "location": "Pakistan",
+            "responsibilities": [
+                "Working for Indus University as a Lab Engineer and Teaching various Courses and conducting labs in Different Engineering Department.",
+                "Represented Expo Pakistan\u201913",
+                "Worked and learned under the management of Trade Development Authority of Pakistan"
+            ],
+            "skills_used": null
+        },
+        {
+            "job_title": "Guest Relation Officer",
+            "company": "TDAP (Trade Development Authority of Pakistan)",
+            "start_date": "2013-09-01",
+            "end_date": "2013-10-31",
+            "employment_type": null,
+            "location": "Pakistan",
+            "responsibilities": [
+                "Worked with foreign delegates and assisted them during their visit in Pakistan",
+                "Worked and learned under the supervision of `Sui Southern Gas Company Limited"
+            ],
+            "skills_used": null
+        },
+        {
+            "job_title": "Internee (Scada)",
+            "company": "SSGC (Sui Southern Gas Company Limited)",
+            "start_date": "2012-06-12",
+            "end_date": "2012-07-12",
+            "employment_type": null,
+            "location": "Pakistan",
+            "responsibilities": [
+                "Worked and learned basic knowledge of Scada System and other practical devices knowledge during Internship"
+            ],
+            "skills_used": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "Android and Windows based Home Automation and Monitoring System via Internet control",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Home and Industrial Automation using Internet Control",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Electronics Workshop",
+            "description": "Designed PCB in \u201cElectronics Workshop\u201d course",
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [],
+    "interests": [
+        "Blogging",
+        "Reading",
+        "Cricket",
+        "Football",
+        "Playing and listening various musical instruments"
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Delegate of Iran and Tajikistan",
+            "organization": "MUN\u2019IK 5 (Model United Nation IBA Karachi) and IU\u2019MUN (IQRA University Model United Nation)",
+            "start_date": null,
+            "end_date": null,
+            "description": "Participated in MUN\u2019IK 5 and IU\u2019MUN"
+        },
+        {
+            "role": "Private Tutor",
+            "organization": null,
+            "start_date": null,
+            "end_date": null,
+            "description": "Giving private tuitions to students of Primary/Secondary classes and O/A level (Ordinary/Advance level)"
+        },
+        {
+            "role": "Member",
+            "organization": "College Cricket Team, Askari College",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "description": null
+        }
+    ],
+    "awards": [],
+    "links": []
+}

@@ -1,0 +1,178 @@
+{
+    "basic_info": {
+        "full_name": "Habib Ur Rahman",
+        "current_title": "",
+        "gender": "",
+        "date_of_birth": "",
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "Habib_tuf@hotmail.com",
+        "phone": "+923338967267",
+        "address": {
+            "street": "Basti Baluchan Main Street Ward No 1, Farooka Tehsil",
+            "city": "Sahiwal",
+            "state": "Sargodha",
+            "zip_code": "",
+            "country": "Pakistan"
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "summary": "To get the challenging position within the organization where I could use my skills more professionally and seek as the challenging position.",
+    "skills": [
+        {
+            "skill_name": "Routed Technology",
+            "proficiency": "",
+            "category": "Networking",
+            "years_of_experience": 10
+        },
+        {
+            "skill_name": "Routing Technologies",
+            "proficiency": "",
+            "category": "Networking",
+            "years_of_experience": 10
+        },
+        {
+            "skill_name": "LAN Switching Technologies",
+            "proficiency": "",
+            "category": "Networking",
+            "years_of_experience": 10
+        },
+        {
+            "skill_name": "Configuration and implementation of Security",
+            "proficiency": "",
+            "category": "Networking",
+            "years_of_experience": 10
+        },
+        {
+            "skill_name": "Quality of Service (QoS)",
+            "proficiency": "",
+            "category": "Networking",
+            "years_of_experience": 10
+        },
+        {
+            "skill_name": "Windows Server",
+            "proficiency": "",
+            "category": "Operating System",
+            "years_of_experience": 10
+        }
+    ],
+    "education": [
+        {
+            "degree": "MS(CS)",
+            "field": "Computer Networks",
+            "institution": "Virtual University of Pakistan, Lahore",
+            "start_date": "",
+            "end_date": "",
+            "grade": "",
+            "location": "Lahore, Pakistan",
+            "courses": [
+                "Advance Computer Networks",
+                "Wireless Communication",
+                "Mobile and pervasive computing"
+            ]
+        },
+        {
+            "degree": "Masters of Computer Sciences",
+            "field": "",
+            "institution": "Virtual University of Pakistan, Lahore",
+            "start_date": "2009-01-01",
+            "end_date": "2011-12-31",
+            "grade": "",
+            "location": "Lahore, Pakistan",
+            "courses": [
+                "Data Communication",
+                "Computer Networks",
+                "Introduction to programming",
+                "OOP",
+                "Software Engineering"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Computer Instructor",
+            "company": "Fauji Foundation Model School Sargodha",
+            "start_date": "2014-02-01",
+            "end_date": "",
+            "employment_type": "Full-time",
+            "location": "Sargodha, Pakistan",
+            "responsibilities": [
+                "Working as Faculty member for Computer Subject.",
+                "Managing and troubleshooting of LAN issues of IT Lab."
+            ],
+            "skills_used": [
+                "Computer Instruction",
+                "LAN Troubleshooting"
+            ]
+        },
+        {
+            "job_title": "System Administrator",
+            "company": "LOGIX College Sargodha",
+            "start_date": "2013-02-01",
+            "end_date": "2014-02-01",
+            "employment_type": "Full-time",
+            "location": "Sargodha, Pakistan",
+            "responsibilities": [
+                "Conducting VU Online Exams as well as organizing online surveys and exams from British Council.",
+                "Implementing, managing and troubleshooting of LAN issues (Windows Server/Clint deployment: Server Role Deployment)."
+            ],
+            "skills_used": [
+                "System Administration",
+                "LAN Management"
+            ]
+        },
+        {
+            "job_title": "Intern",
+            "company": "NUST ISLAMABAD",
+            "start_date": "2012-01-01",
+            "end_date": "2013-12-31",
+            "employment_type": "Internship",
+            "location": "Islamabad, Pakistan",
+            "responsibilities": [
+                "Configuration and Troubleshooting of switches (Cisco and 3Com) and Cisco routers.",
+                "Planning and installation of Network on Lab Environment as well as Network Monitoring.",
+                "Implementing and troubleshooting of layer 1 & 2 issues as well as configuration of Cisco Access Points."
+            ],
+            "skills_used": [
+                "Network Configuration",
+                "Troubleshooting"
+            ]
+        }
+    ],
+    "projects": [],
+    "certifications": [
+        {
+            "title": "Cisco Certified Network Associate (CCNA)",
+            "issuer": "Cisco Systems Inc",
+            "issue_date": "2012-01-01",
+            "expiration_date": "",
+            "credential_id": "CSCO12090393",
+            "url": ""
+        },
+        {
+            "title": "Cisco Certified Network Professional (CCNP)",
+            "issuer": "Cisco Systems Inc",
+            "issue_date": "",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": ""
+        },
+        {
+            "title": "English Proficiency Certificate",
+            "issuer": "Virtual University of Pakistan",
+            "issue_date": "2011-01-01",
+            "expiration_date": "",
+            "credential_id": "",
+            "url": ""
+        }
+    ],
+    "publications": [],
+    "languages": [],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

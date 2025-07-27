@@ -1,0 +1,161 @@
+{
+    "basic_info": {
+        "full_name": "HIT ESH KUMA R",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "hksolanki151@gmail.com",
+        "phone": "+92 332 3714436",
+        "address": {
+            "street": "Flat No. B-78, 7 Floor, Faraz View, Block 13, Gulistan-e-Jauhar",
+            "city": "Karachi",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "I\u2019m an adaptable and efficient team player with excellent communication skills at all levels. I\u2019m looking for a role where I can develop my skills further, researching new technologies and reveling in new challenges. To attain any challenging position, that offers opportunities for advancement and allows me to utilize my skill and attribute to the fullest potential.",
+    "skills": [
+        {
+            "skill_name": "TCP/IP Networking",
+            "proficiency": null,
+            "category": "Networking",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Router - Cisco/Juniper",
+            "proficiency": null,
+            "category": "Networking",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Protocol \u2013 RIP, OSPF and IS-IS",
+            "proficiency": null,
+            "category": "Networking",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Installing and configuring server 2003",
+            "proficiency": null,
+            "category": "Server Administration",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Managing and maintaining server infrastructure",
+            "proficiency": null,
+            "category": "Server Administration",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Planning, Implementing, and Maintaining a Microsoft Windows Server 2003 Active Directory Infrastructure",
+            "proficiency": null,
+            "category": "Server Administration",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Installing, configuring and administrating Microsoft Windows XP",
+            "proficiency": null,
+            "category": "Client Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Maintenance of peripheral devices, Desktop hardware troubleshooting, upgrades, including memory, additional hard drives",
+            "proficiency": null,
+            "category": "Hardware",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Computer Science",
+            "field": "Computer Science",
+            "institution": "International Islamic University, Islamabad",
+            "start_date": "2010-01-01",
+            "end_date": "2014-12-31",
+            "grade": "3.09/4.00",
+            "location": "Islamabad",
+            "courses": []
+        },
+        {
+            "degree": "CCNA & MCSE",
+            "field": null,
+            "institution": "CISCOM Rawalpindi",
+            "start_date": "2013-09-01",
+            "end_date": "2013-11-30",
+            "grade": null,
+            "location": "Rawalpindi",
+            "courses": []
+        },
+        {
+            "degree": "Intermediate",
+            "field": null,
+            "institution": "Govt:(B) Degree College Umerkot",
+            "start_date": "2008-01-01",
+            "end_date": "2010-12-31",
+            "grade": "80% (A-1)",
+            "location": "Umerkot",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation",
+            "field": null,
+            "institution": "Kainaat Public school Umerkot",
+            "start_date": "2006-01-01",
+            "end_date": "2008-12-31",
+            "grade": "84% (A-1)",
+            "location": "Umerkot",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Intern Technology - NOC Data Core & IT Networks",
+            "company": "Mobilink GSM (PMCL)",
+            "start_date": "2014-07-04",
+            "end_date": "2014-10-08",
+            "employment_type": "Intern",
+            "location": "Islamabad",
+            "responsibilities": [
+                "Assist in Network",
+                "Manage Compliance of standard Configurations for SNMP, MRTG, NMS",
+                "Monitoring and Reporting of Nationwide Alarms from iManager U2000"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Intern",
+            "company": "Allama Iqbal Open University, Islamabad",
+            "start_date": "2013-07-01",
+            "end_date": "2013-08-31",
+            "employment_type": "Intern",
+            "location": "Islamabad",
+            "responsibilities": [
+                "First-level help desk technical support (cabling) and troubleshooting on IT network"
+            ],
+            "skills_used": []
+        }
+    ],
+    "projects": [],
+    "certifications": [
+        {
+            "title": "CCNA & MCSE",
+            "issuer": "CISCOM Rawalpindi",
+            "issue_date": "2013-11-30",
+            "expiration_date": null,
+            "credential_id": null,
+            "url": null
+        }
+    ],
+    "publications": [],
+    "languages": [],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

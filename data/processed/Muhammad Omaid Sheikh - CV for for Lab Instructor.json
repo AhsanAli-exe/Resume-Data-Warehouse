@@ -1,0 +1,304 @@
+{
+    "basic_info": {
+        "full_name": "MOHAMMAD UMAID SHEIKH",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "umaidned@gmail.com",
+        "phone": "0324 2748533",
+        "address": {
+            "street": "Al Falah Housing Society, House No. 2 CB-25",
+            "city": "Karachi",
+            "state": "Sindh",
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Seeking full time opportunity to blend the theoretical information with the practical experiences so that I can better understand the domain knowledge I am acquiring presently; and also to plan effectively my career and enhance my professional skills for optimizing my work related prospects.",
+    "skills": [
+        {
+            "skill_name": "SAP Certified NetWeaver Administration Consultant",
+            "proficiency": null,
+            "category": "Certification",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SAP Certified HANA Administration Consultant",
+            "proficiency": null,
+            "category": "Certification",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SAP ABAP",
+            "proficiency": "Trained",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SAP Solution Manager",
+            "proficiency": "Trained",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Oracle O.C.P Track Level",
+            "proficiency": "Trained",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "IBM DB2 Certified Academic Associate",
+            "proficiency": null,
+            "category": "Certification",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "System Administration on Linux and Windows",
+            "proficiency": "Working Knowledge",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Directory Server",
+            "proficiency": "Working Knowledge",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "CCNA Level Working knowledge of TCP/IP Suite, OSI Layers, Socket Programming",
+            "proficiency": "Working Knowledge",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Visual Studio, C#.NET, ASP.NET, ORACLE, JAVA, PHP, SQL Server 2008, .NET 3.5/4.0, Android, WP7",
+            "proficiency": "Adequate Working Knowledge",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Data Ware Housing, Data Mining, OLTP, OLAP/OLAM, ETL, ELT Processes",
+            "proficiency": "Adequate Working Knowledge",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Artificial Intelligence and Heuristics, Frame and Script Programming",
+            "proficiency": "Adequate Working Knowledge",
+            "category": "Technical Skill",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS (CS & IT)",
+            "field": "Computer Science and Information Technology",
+            "institution": "NED UNIVERSITY OF ENGINEERING & TECHNOLOGY",
+            "start_date": "2009-01-01",
+            "end_date": "2013-12-31",
+            "grade": "83.2%",
+            "location": "Karachi, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "HSC (Pre-Engineering)",
+            "field": "Pre-Engineering",
+            "institution": "SUPERIOR SCIENCE COLLEGE",
+            "start_date": "2007-01-01",
+            "end_date": "2009-12-31",
+            "grade": "A",
+            "location": null,
+            "courses": []
+        },
+        {
+            "degree": "SSC (Science)",
+            "field": "Science",
+            "institution": "ARMY PUBLIC SCHOOL (Central Ordinance Depot)",
+            "start_date": "2005-01-01",
+            "end_date": "2007-12-31",
+            "grade": "A",
+            "location": null,
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Business Process Associate Consultant Trainee",
+            "company": "SAP MENA",
+            "start_date": "2014-05-22",
+            "end_date": "2014-09-12",
+            "employment_type": "Full-time",
+            "location": "Middle East and North Africa",
+            "responsibilities": [
+                "Achieved 2nd Top Performer Award by SAP MENA"
+            ],
+            "skills_used": []
+        },
+        {
+            "job_title": "Member of SAP Young Professionals Program 'MAWARED' 2014 - Pakistan",
+            "company": "SAP",
+            "start_date": "2014-05-01",
+            "end_date": "2014-09-30",
+            "employment_type": "Program",
+            "location": "Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Research Fellow Officer / Instructor",
+            "company": "FAST NUCES (National University of Computing & Emerging Sciences)",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Full-time",
+            "location": "Karachi, Pakistan",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Bari Tech Sol (Software House)",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Full-time",
+            "location": null,
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Paid Internee",
+            "company": "PTCL",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Internship",
+            "location": null,
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "I.T Management Intern",
+            "company": "Sui Southern Gas Company",
+            "start_date": "2012-06-01",
+            "end_date": "2012-08-31",
+            "employment_type": "Internship",
+            "location": null,
+            "responsibilities": [],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Intelligent Computing Engine ICE",
+            "description": "Business Intelligence Project",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Intelligent Financial Engine IFE",
+            "description": "Business Intelligence Project",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "E learning game of Accountancy",
+            "description": "Android App",
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [
+        {
+            "title": "SAP Certified NetWeaver Administration Consultant",
+            "issuer": "SAP",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "0012030199",
+            "url": null
+        },
+        {
+            "title": "SAP Certified HANA Administration Consultant",
+            "issuer": "SAP",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "0012030199",
+            "url": null
+        },
+        {
+            "title": "IBM DB2 Certified Academic Associate",
+            "issuer": "IBM",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "703",
+            "url": null
+        }
+    ],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": null
+        },
+        {
+            "language": "Urdu",
+            "proficiency": null
+        }
+    ],
+    "interests": [],
+    "volunteer_experience": [
+        {
+            "role": "President of English Declamation Club APS",
+            "organization": "APS",
+            "start_date": "2005-01-01",
+            "end_date": "2007-12-31",
+            "description": null
+        },
+        {
+            "role": "President",
+            "organization": "O.P.E.N (Organization of Pakistani Entrepreneurs of North America) N.E.D. University Chapter",
+            "start_date": null,
+            "end_date": null,
+            "description": null
+        }
+    ],
+    "awards": [
+        {
+            "title": "2nd Top Performer Award by SAP MENA",
+            "issuer": "SAP MENA",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Won Pakistan's Biggest Live Quiz Competition Series at GEO TV",
+            "issuer": "GEO TV",
+            "date": "2013-07-01",
+            "description": null
+        },
+        {
+            "title": "2nd Position In Inter N.E.D English Essay Writing Competition",
+            "issuer": "NED University",
+            "date": "2013-01-01",
+            "description": null
+        },
+        {
+            "title": "2nd Position In Inter A.P.S.A.C.S English Declamation Contest",
+            "issuer": "A.P.S.A.C.S",
+            "date": "2004-01-01",
+            "description": null
+        }
+    ],
+    "links": []
+}

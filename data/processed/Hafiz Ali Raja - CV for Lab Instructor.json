@@ -1,0 +1,239 @@
+{
+    "basic_info": {
+        "full_name": "Hafiz Muhammad Ali Raja",
+        "current_title": "Lab Assistant/ Network Assistant",
+        "gender": null,
+        "date_of_birth": null,
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "alisherhaidri1984@gmail.com",
+        "phone": "+923216839854",
+        "address": {
+            "street": "House # 16, Block \u2018x\u2019, Satellite town",
+            "city": "Bahawalpur",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "To become a better & better IT resource with a long term future in mind",
+    "skills": [
+        {
+            "skill_name": "Teaching",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "PHP & HTML, SQL, MySQL",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C++, C#, .NET",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Office 97, 2007 & 2010 Intermediate (Power Point, Word, Excel)",
+            "proficiency": "Intermediate",
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MS Office Suit",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MATLAB",
+            "proficiency": null,
+            "category": null,
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS (Computer Science)",
+            "field": "Computer Science",
+            "institution": "Air University Islamabad",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": "Islamabad",
+            "courses": []
+        },
+        {
+            "degree": "D.A.E (Mechanical)",
+            "field": "Mechanical",
+            "institution": "P.B.T.E Lahore",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": "Lahore",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation (Science)",
+            "field": "Science",
+            "institution": "B.I.S.E Bahawalpur",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": "Bahawalpur",
+            "courses": []
+        }
+    ],
+    "experience": [
+        {
+            "job_title": "Lab Assistant/ Network Assistant",
+            "company": "Air University, Multan",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": "Current",
+            "location": "Multan",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lab Supervisor",
+            "company": "COMSATS Institute of Information Technology, Sahiwal",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": null,
+            "location": "Sahiwal",
+            "responsibilities": [],
+            "skills_used": []
+        },
+        {
+            "job_title": "Lecturer/  Lab  In-charge",
+            "company": "Allama Iqbal College of Science & Commerce, Bahawalpur",
+            "start_date": null,
+            "end_date": null,
+            "employment_type": null,
+            "location": "Bahawalpur",
+            "responsibilities": [],
+            "skills_used": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Files Handling using C++",
+            "description": null,
+            "technologies": [
+                "C++"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Library Management System using Visual C++",
+            "description": null,
+            "technologies": [
+                "Visual C++"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Bad News Bearer",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Database for DAEWOO bus service using PHP, MYSQL",
+            "description": null,
+            "technologies": [
+                "PHP",
+                "MYSQL"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Snooker Club Management System Using C#",
+            "description": null,
+            "technologies": [
+                "C#"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "3D Interactive Segmentation and Visualization",
+            "description": null,
+            "technologies": [],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Online Ticketing Booking System using ASP.NET and SQL Server 2008",
+            "description": null,
+            "technologies": [
+                "ASP.NET",
+                "SQL Server 2008"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Livewire Based Interactive Volumetric Segmentation",
+            "description": "Segmentation in medical image analysis is very important part. In segmentation there are some simple steps are involved who helps the doctors and medical expert to detect the exact location and area of the disease. Our research is related to the livewire based interactive segmentation. This segmentation is using the livewire technique but also involving the human interaction for the best accuracy. In this research we first implement the livewire on 2D images which is taken from the 3D Brain volume. Here we prefer to use the semi-automatic technique in segmentation.",
+            "technologies": [
+                "MATLAB"
+            ],
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [
+        {
+            "title": "Research Paper",
+            "journal": "The International Conference on Computer Science & Applications 2012",
+            "authors": [
+                "Hafiz Muhammad Ali Raja"
+            ],
+            "year": 2012,
+            "doi": null,
+            "url": null
+        }
+    ],
+    "languages": [],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [
+        {
+            "title": "Acceptance of Research Paper",
+            "issuer": "The World Congress on Engineering & Computer Science (WCECS) 2012",
+            "date": "2012-10-24",
+            "description": null
+        }
+    ],
+    "links": []
+}

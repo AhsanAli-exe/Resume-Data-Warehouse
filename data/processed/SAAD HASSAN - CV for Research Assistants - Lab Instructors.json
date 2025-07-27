@@ -1,0 +1,227 @@
+{
+    "basic_info": {
+        "full_name": "Saad Hassan",
+        "current_title": "",
+        "gender": "Male",
+        "date_of_birth": "1991-06-06",
+        "nationality": "Pakistan"
+    },
+    "contact_info": {
+        "email": "fadi_hitec@yahoo.com",
+        "phone": "+92342-1560619",
+        "address": {
+            "street": "Block 3-D, Flat #15, Category-IV, Sector I-9/4",
+            "city": "Islamabad",
+            "state": "",
+            "zip_code": "",
+            "country": "Pakistan"
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "summary": "To obtain a challenging position that allows me to utilize my current skills to assist an organization that offers a stable employment opportunity. I own team management skills, a good planner, reliable and able to work on own initiative or as part of team, remaining adaptable and flexible in all situations. I am also eager to learn new skills and technological advancements.",
+    "skills": [
+        {
+            "skill_name": "C",
+            "proficiency": "",
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C++",
+            "proficiency": "",
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Visual Basic C++",
+            "proficiency": "",
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "MATLAB",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Proteus",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Electronic Work Bench",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Emu 8086",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microchip",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Office",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Computer Hardware",
+            "proficiency": "",
+            "category": "Hardware",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Computer Software",
+            "proficiency": "",
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Network Analysis",
+            "proficiency": "",
+            "category": "Networking",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Digital Logic Design",
+            "proficiency": "",
+            "category": "Electronics",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Technical Report Writing",
+            "proficiency": "",
+            "category": "Writing",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "field": "Electrical Engineering (Specialization in Telecommunication)",
+            "institution": "HITEC University Taxila-Cantt, Pakistan",
+            "start_date": null,
+            "end_date": null,
+            "grade": "CGPA 3.08/4, Percentage: 77%, Division: First",
+            "location": "Taxila, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "F.Sc (Pre-Engineering)",
+            "field": "",
+            "institution": "JINNAH Basic School & Colleges Mansehra, Pakistan",
+            "start_date": null,
+            "end_date": null,
+            "grade": "Marks Obtained: 847/1100, Percentage: 77%, Division: First",
+            "location": "Mansehra, Pakistan",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation (General Science)",
+            "field": "",
+            "institution": "O.P.F public school Mansehra",
+            "start_date": null,
+            "end_date": null,
+            "grade": "Marks Obtained: 703/900, Percentage: 78%, Division: First",
+            "location": "Mansehra, Pakistan",
+            "courses": []
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "title": "Design of Microstrip Antenna UHF Band",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Modeling and Simulation of Power Generation, Transmission and Distribution System using Matlab",
+            "description": "",
+            "technologies": [
+                "Matlab"
+            ],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Comparative Research in 3G-4G/LTE Architectures",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Design of AC Motor Speed Controller using Less Expensive Component",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Modeling and Performance Analysis of Car Suspension System using Matlab",
+            "description": "",
+            "technologies": [
+                "Matlab"
+            ],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Multi-Aging Analysis of High-Voltage Insulator-11kv",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": ""
+        },
+        {
+            "language": "Urdu",
+            "proficiency": ""
+        },
+        {
+            "language": "Hinko",
+            "proficiency": ""
+        },
+        {
+            "language": "Pashto",
+            "proficiency": ""
+        }
+    ],
+    "interests": [],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}

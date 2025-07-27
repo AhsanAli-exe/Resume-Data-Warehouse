@@ -1,0 +1,200 @@
+{
+    "basic_info": {
+        "full_name": "ADNAN AHMED",
+        "current_title": "",
+        "gender": null,
+        "date_of_birth": "1990-06-14",
+        "nationality": null
+    },
+    "contact_info": {
+        "email": "dani_a4a@yahoo.com",
+        "phone": "+92 (345) 8365922",
+        "address": {
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip_code": "",
+            "country": ""
+        },
+        "linkedin": "",
+        "github": "",
+        "portfolio": ""
+    },
+    "summary": "To join a dedicated and professional team in the field of Telecommunication Engineering to enhance my knowledge and professional abilities within a dynamic and progressive environment.",
+    "skills": [
+        {
+            "skill_name": "Anritsu Site Master",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Huwaie DBS_3900 and BTS-3900",
+            "proficiency": "profound knowledge",
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Commissioning of BTS",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "3D Simulation and Design of Antennas",
+            "proficiency": null,
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Microsoft Word, Excel, PowerPoint, Access, InPage",
+            "proficiency": null,
+            "category": "Software",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Wireless Video communication",
+            "proficiency": "profound knowledge",
+            "category": "Technical",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Latest Antenna systems",
+            "proficiency": "familiar",
+            "category": "Technical",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.E",
+            "field": "Telecommunication Engineering",
+            "institution": "Hamdard University, Karachi",
+            "start_date": "2010-01-01",
+            "end_date": "2014-12-31",
+            "grade": "3.1",
+            "location": "Karachi",
+            "courses": []
+        },
+        {
+            "degree": "F.Sc.",
+            "field": "Pre Engineering",
+            "institution": "Tameer-e-Nau Public College, Quetta",
+            "start_date": "2008-01-01",
+            "end_date": "2009-12-31",
+            "grade": "74%",
+            "location": "Quetta",
+            "courses": []
+        },
+        {
+            "degree": "Matriculation",
+            "field": "",
+            "institution": "Government high School  Killi Sheikhan, Quetta",
+            "start_date": "2006-01-01",
+            "end_date": "2007-12-31",
+            "grade": "75%",
+            "location": "Quetta",
+            "courses": []
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "title": "Design and performance Analysis of MIMO Antenna for Mobile Terminals",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Variable DC Power Supply",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "TV Remote Jammer",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Digital Stop Watch",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Digital Clock",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        },
+        {
+            "title": "Function Generator",
+            "description": "",
+            "technologies": [],
+            "role": "",
+            "start_date": null,
+            "end_date": null,
+            "link": ""
+        }
+    ],
+    "certifications": [
+        {
+            "title": "BSS and RAN engineering",
+            "issuer": "",
+            "issue_date": null,
+            "expiration_date": null,
+            "credential_id": "",
+            "url": ""
+        }
+    ],
+    "publications": [],
+    "languages": [
+        {
+            "language": "Urdu",
+            "proficiency": "fluent"
+        },
+        {
+            "language": "English",
+            "proficiency": "conversational"
+        }
+    ],
+    "interests": [
+        "Research in advanced MIMO Antenna systems",
+        "Satellite TV broadcasting and SNG"
+    ],
+    "volunteer_experience": [
+        {
+            "role": "Volunteer",
+            "organization": "ITCN-ASIA exhibition conference 2013",
+            "start_date": "2013-01-01",
+            "end_date": "2013-12-31",
+            "description": ""
+        }
+    ],
+    "awards": [
+        {
+            "title": "National ICT R&D scholarship",
+            "issuer": "",
+            "date": "2010",
+            "description": ""
+        }
+    ],
+    "links": []
+}

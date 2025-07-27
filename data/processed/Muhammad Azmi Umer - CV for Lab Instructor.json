@@ -1,0 +1,216 @@
+{
+    "basic_info": {
+        "full_name": "Muhammad Azmi Umer",
+        "current_title": null,
+        "gender": null,
+        "date_of_birth": "1990-11-18",
+        "nationality": "Pakistani"
+    },
+    "contact_info": {
+        "email": "muhammadazmiumer@yahoo.com",
+        "phone": "+923312607116",
+        "address": {
+            "street": "H. No. L-481 sector 48 A-1 Universal Town Korangi #1 1/2",
+            "city": "Karachi",
+            "state": null,
+            "zip_code": null,
+            "country": "Pakistan"
+        },
+        "linkedin": null,
+        "github": null,
+        "portfolio": null
+    },
+    "summary": "Looking for challenging and rewarding position in Software/Web Research & Development in a rapidly growing organization and be able to work efficiently in a team with a vision to enhance my professional abilities/skills.",
+    "skills": [
+        {
+            "skill_name": "C",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "C#",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "HTML",
+            "proficiency": null,
+            "category": "Markup Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Prolog",
+            "proficiency": null,
+            "category": "Programming Language",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "SQL Server 2005",
+            "proficiency": null,
+            "category": "Database Management System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Oracle",
+            "proficiency": null,
+            "category": "Database Management System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Visual Studio 2010",
+            "proficiency": null,
+            "category": "Integrated Development Environment",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Visual Studio 2008",
+            "proficiency": null,
+            "category": "Integrated Development Environment",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Visual Studio 2005",
+            "proficiency": null,
+            "category": "Integrated Development Environment",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows XP",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows Vista",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        },
+        {
+            "skill_name": "Windows 7",
+            "proficiency": null,
+            "category": "Operating System",
+            "years_of_experience": null
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S.",
+            "field": "Computer Science",
+            "institution": "PAF-KIET",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": null,
+            "courses": null
+        },
+        {
+            "degree": "B.S.",
+            "field": "Computer Science",
+            "institution": "University of Karachi",
+            "start_date": null,
+            "end_date": null,
+            "grade": "3.24",
+            "location": null,
+            "courses": null
+        },
+        {
+            "degree": "F.S.C",
+            "field": "Pre Engineering",
+            "institution": "Federal Board of Intermediate & Secondary Education Islamabad Pakistan",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": null,
+            "courses": null
+        },
+        {
+            "degree": "S.S.C",
+            "field": "Science",
+            "institution": "Naunehal Secondary School Karachi Pakistan",
+            "start_date": null,
+            "end_date": null,
+            "grade": null,
+            "location": null,
+            "courses": null
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "title": "Hotel Management System",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Snake Game",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Ping Pong(ball) Game",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Marriage bureau database System using oracle",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Career Counseling Expert System",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        },
+        {
+            "title": "Fishing game using Opengl",
+            "description": null,
+            "technologies": null,
+            "role": null,
+            "start_date": null,
+            "end_date": null,
+            "link": null
+        }
+    ],
+    "certifications": [],
+    "publications": [],
+    "languages": [
+        {
+            "language": "English",
+            "proficiency": null
+        },
+        {
+            "language": "Urdu",
+            "proficiency": null
+        }
+    ],
+    "interests": [
+        "Reading Books",
+        "Playing Cricket"
+    ],
+    "volunteer_experience": [],
+    "awards": [],
+    "links": []
+}
